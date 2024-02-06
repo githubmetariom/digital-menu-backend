@@ -1,0 +1,8 @@
+{
+    "User": true,
+    "CreateUsersTable": true,
+    "RoleUserTable": true,
+    "Shop": true,
+    "Financial": true,
+    "General": true
+}
